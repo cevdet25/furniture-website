@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: $body-color; 
+    font-family: 'Dancing Script', cursive;
+    line-height: 1.5;
+    position: relative;
+}
+
+a{
+    text-decoration: none;
+    color: $light-color;
+}
+
+
+ul{
+    list-style: none;
+}
+
+img{
+    width: 100%; 
+}  

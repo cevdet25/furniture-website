@@ -1,0 +1,224 @@
+BEGIN:VCALENDAR
+METHOD:REQUEST
+PRODID:Microsoft Exchange Server 2010
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID:Turkey Standard Time
+BEGIN:STANDARD
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:STANDARD
+BEGIN:DAYLIGHT
+DTSTART:16010101T000000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+ORGANIZER;CN=Fatma BONCUK YILMAZ (TMMT):mailto:fatma.boncuk@toyotatr.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Metin Cebe
+  (TMMT):mailto:Metin.CEBE@toyotatr.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sunayyilma
+ z97@hotmail.com:mailto:sunayyilmaz97@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ilaydaaydi
+ n32@gmail.com:mailto:ilaydaaydin32@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=koktayn@gm
+ ail.com:mailto:koktayn@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=cevdetuslu
+ 25@gmail.com:mailto:cevdetuslu25@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ibrahimkay
+ aik9@outlook.com:mailto:ibrahimkayaik9@outlook.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=yerenkl@gm
+ ail.com:mailto:yerenkl@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=furkangira
+ y2001@gmail.com:mailto:furkangiray2001@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=korogluozm
+ en@gmail.com:mailto:korogluozmen@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=merhun20@k
+ u.edu.tr:mailto:merhun20@ku.edu.tr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=oguzgoktug
+ .official@gmail.com:mailto:oguzgoktug.official@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kalaykarah
+ an@gmail.com:mailto:kalaykarahan@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=oguzsefaas
+ lanbay@gmail.com:mailto:oguzsefaaslanbay@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=batinbaris
+ bozkurt@gmail.com:mailto:batinbarisbozkurt@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Aykanaydn9
+ 5@gmail.com:mailto:Aykanaydn95@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=betulozgur
+ 26@icloud.com:mailto:betulozgur26@icloud.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=onurs19@it
+ u.edu.tr:mailto:onurs19@itu.edu.tr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=onursafa@h
+ otmail.com:mailto:onursafa@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=kdrcnvurma
+ z@gmail.com:mailto:kdrcnvurmaz@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=efeertetik
+ @gmail.com:mailto:efeertetik@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ozkanfuatc
+ an@gmail.com:mailto:ozkanfuatcan@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=askancansu
+ 1@gmail.com:mailto:askancansu1@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=alperen_54
+ .9@hotmail.com:mailto:alperen_54.9@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=sancar1357
+ @gmail.com:mailto:sancar1357@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ceren.gulk
+ okan@ozu.edu.tr:mailto:ceren.gulkokan@ozu.edu.tr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=iremsaydam
+ 2001@hotmail.com:mailto:iremsaydam2001@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=yyagizsume
+ r@gmail.com:mailto:yyagizsumer@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=bengisuber
+ kel@gmail.com:mailto:bengisuberkel@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=oguzkaanh@
+ hotmail.com:mailto:oguzkaanh@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ceyda.korp
+ e@boun.edu.tr:mailto:ceyda.korpe@boun.edu.tr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=emrecan.og
+ uz@outlook.com:mailto:emrecan.oguz@outlook.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=mehmet.cet
+ inkaya.sau@gmail.com:mailto:mehmet.cetinkaya.sau@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=fatmanurge
+ besoglu2609@gmail.com:mailto:fatmanurgebesoglu2609@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=zynoztrk1@
+ gmail.com:mailto:zynoztrk1@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=yunus.emre
+ .kalk@hotmail.com:mailto:yunus.emre.kalk@hotmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yunusemre.
+ mutlu54@gmail.com:mailto:Yunusemre.mutlu54@gmail.com
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=eren.altun
+ @ozu.edu.tr:mailto:eren.altun@ozu.edu.tr
+ATTENDEE;ROLE=REQ-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=ieyildiz41
+ 14@gmail.com:mailto:ieyildiz4114@gmail.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sefa Bayka
+ ldi (TMMT):mailto:Sefa.BAYKALDI@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Oguzhan Ya
+ sa (TMMT):mailto:Oguzhan.YASA@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Nedim Camg
+ öz (TMMT):mailto:Nedim.CAMGOZ@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Alptekin I
+ sler (TMMT):mailto:Alptekin.ISLER@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mustafa Sc
+ harer (TMMT):mailto:Mustafa.Scharer@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gülsah Se
+ lamet (TMMT):mailto:Gulsah.UYGUR@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Oktay Söy
+ lemez (TMMT):mailto:Oktay.SOYLEMEZ@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Baris Çiv
+ ikgedey (TMMT):mailto:Baris.CIVIKGEDEY@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ridvan Dem
+ iray (TMMT):mailto:Ridvan.DEMIRAY@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hasan Ayde
+ mir (TMMT):mailto:hasan.aydemir@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mustafa Ka
+ rakayis (TMMT):mailto:mustafa.karakayis@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Musa Özg
+ önül (TMMT):mailto:Musa.OZGONUL@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Mehmet Öz
+  (TMMT):mailto:Mehmet.OZ@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Hasan Uygu
+ n (TMMT):mailto:Hasan.UYGUN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Tolga Ülg
+ en (TMMT):mailto:Tolga.ULGEN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Atasay Aca
+ r (TMMT):mailto:Atasay.ACAR@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Erhan Kars
+ ak (TMMT):mailto:Erhan.KARSAK@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ibrahim Ak
+ soy (TMMT):mailto:Ibrahim.AKSOY@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Selahattin
+  Karaman (TMMT):mailto:Selahattin.KARAMAN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ahmet Ugur
+ tay (TMMT):mailto:Ahmet.UGURTAY@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Cihan Ermu
+ tlu (TMMT):mailto:Cihan.Ermutlu@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Burçin S
+ ögüt (TMMT):mailto:Burcin.SOGUT@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Emin Pehle
+ van (TMMT):mailto:Emin.PEHLEVAN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Emrah Aydo
+ gdu (TMMT):mailto:Emrah.AYDOGDU@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Oktay Gök
+ taş (TME):mailto:oktay.goktas@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Harun Igne
+ li (TMMT):mailto:harun.igneli@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sebnem Erk
+ azanci (TMMT):mailto:Sebnem.ERKAZANCI@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Cemal Kirc
+ i (TMMT):mailto:cemal.kirci@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Oguz Aydin
+  (TMMT):mailto:Oguz.AYDIN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Saniye Öz
+ demir (TMMT):mailto:saniye.ozdemir@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Gamze ECE:
+ mailto:gamze.ece@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Yeliz CIFT
+ CI (TMMT):mailto:yeliz.ciftci@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Zehra Kü
+ çükler (TMMT):mailto:Zehra.KUCUKLER@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sermin AKB
+ ABA (TMMT):mailto:Sermin.AKBABA@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=SEDA SEYID
+ OGLU:mailto:Seda.SEYIDOGLU@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Ayla Yüre
+ k (TMMT):mailto:Ayla.YUREK@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Sertap SUM
+ BUL:mailto:sertap.sumbul@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Busra YAZG
+ AN:mailto:busra.yazgan@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Murat Yaza
+ n (TMMT):mailto:Murat.YAZAN@toyotatr.com
+ATTENDEE;ROLE=OPT-PARTICIPANT;PARTSTAT=NEEDS-ACTION;RSVP=TRUE;CN=Engin Uysa
+ l (TMMT):mailto:engin.uysal@toyotatr.com
+DESCRIPTION;LANGUAGE=en-US:Merhaba\,\n\nStajyer arkadaşlarımız için Met
+ in Cebe tarafından soru – cevap olacak şekilde  “Toyota’da Kalite
+ ” eğitimi planlanmıştır.\nKalite hakkında bilgi almak isteyen stajy
+ erlerimizin katılımını rica ediyoruz.\n\n\nTeşekkürler\n\n\n\n\n\n##
+ ##########################################################################
+ ###\nBu e-posta mesaji gizli bilgiler içeriyor olabilir. Eğer bu mesajı
+ n alıcısı değilseniz veya mesajı almak\niçin yetkili değilseniz\; b
+ u mesajı kullanmayınız\, kopyalamayınız\, yaymayınız veya bu mesajd
+ an dolayı\nherhangi bir işlem yapmayınız. Eğer bu e-posta mesajı siz
+ e yanlışlıkla ulaşmışsa\, lütfen hemen\ngöndericiye bilgi veriniz 
+ ve bu mesaj ile varsa tüm eklerini mesaj kutunuzdan derhal siliniz.\n\nTh
+ is e-mail may contain confidential information. If you are not an addresse
+ e or otherwise authorised\nto receive this message\, you should not use\, 
+ copy\, disclose or take any action based on this e-mail.\nIf you have rece
+ ived this e-mail in error\, please inform the sender promptly and delete t
+ his message\nand any attachments immediately.\n###########################
+ ####################################################\n
+UID:040000008200E00074C5B7101A82E00800000000F0F8B5078FB8D801000000000000000
+ 0100000004D1C9789DF703D4AA8BF4C47CD66300F
+SUMMARY;LANGUAGE=en-US:Toyota'da Kalite
+DTSTART;TZID=Turkey Standard Time:20220826T100000
+DTEND;TZID=Turkey Standard Time:20220826T113000
+CLASS:PUBLIC
+PRIORITY:5
+DTSTAMP:20220825T125048Z
+TRANSP:OPAQUE
+STATUS:CONFIRMED
+SEQUENCE:1
+LOCATION;LANGUAGE=en-US:Conference Room/ENTRANCE
+X-MICROSOFT-CDO-APPT-SEQUENCE:1
+X-MICROSOFT-CDO-OWNERAPPTID:-801536026
+X-MICROSOFT-CDO-BUSYSTATUS:TENTATIVE
+X-MICROSOFT-CDO-INTENDEDSTATUS:BUSY
+X-MICROSOFT-CDO-ALLDAYEVENT:FALSE
+X-MICROSOFT-CDO-IMPORTANCE:1
+X-MICROSOFT-CDO-INSTTYPE:0
+X-MICROSOFT-DONOTFORWARDMEETING:FALSE
+X-MICROSOFT-DISALLOW-COUNTER:FALSE
+X-MICROSOFT-LOCATIONS:[{"DisplayName":"Conference Room/ENTRANCE"\,"Location
+ Annotation":""\,"LocationSource":5\,"LocationUri":"conferance.room@toyotat
+ r.com"\,"LocationStreet":""\,"LocationCity":""\,"LocationState":""\,"Locat
+ ionCountry":""\,"LocationPostalCode":""\,"LocationFullAddress":""}]
+BEGIN:VALARM
+DESCRIPTION:REMINDER
+TRIGGER;RELATED=START:-PT15M
+ACTION:DISPLAY
+END:VALARM
+END:VEVENT
+END:VCALENDAR

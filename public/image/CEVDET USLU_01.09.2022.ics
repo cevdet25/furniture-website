@@ -1,0 +1,33 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Schedule a Meeting
+CALSCALE:GREGORIAN
+METHOD:REQUEST
+BEGIN:VTIMEZONE
+TZID:Europe/Istanbul
+X-LIC-LOCATION:Europe/Istanbul
+BEGIN:STANDARD
+DTSTART;TZID=Europe/Istanbul:20220901T100000
+TZOFFSETFROM:+0300
+TZOFFSETTO:+0300
+TZNAME:+03
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:06e5609f-2633-482e-bd3a-c6565f48acc0
+DTSTAMP:20220825T121448Z
+DESCRIPTION;ENCODING=QUOTED-PRINTABLE:=0D=0AMerhaba,=0D=0A=0D=0A=0D=0AOnline mülakat için takvim davetiniz oluşturulmuştur. Mülakata giriş bilgilerinizi mailinize gönderilen davet mailinden görebilirsiniz.=0D=0A=0D=0A=0D=0Aİyi günler dileriz.
+DTSTART;TZID=Europe/Istanbul:20220901T100000
+DTEND;TZID=Europe/Istanbul:20220901T102000
+LOCATION: Online
+SEQUENCE:0
+STATUS:CONFIRMED
+SUMMARY:CEVDET USLU Mercedes-Benz Türk- PEP + Zorunlu İşyeri Eğitimi Staj Programı Mülakat Bağlantın
+ORGANIZER;CN="emine_elanur.aykilic@daimler.com":MAILTO:emine_elanur.aykilic@daimler.com
+ATTENDEE;CN="cevdetuslu25@gmail.com";RSVP=TRUE:mailto:cevdetuslu25@gmail.com
+ATTENDEE;CN="emine_elanur.aykilic@daimler.com";RSVP=TRUE:mailto:emine_elanur.aykilic@daimler.com
+ATTENDEE;CN=" mbt.guliyev@daimler.com";RSVP=TRUE:mailto: mbt.guliyev@daimler.com
+ATTENDEE;CN=" mbt.g.cengiz@daimler.com";RSVP=TRUE:mailto: mbt.g.cengiz@daimler.com
+X-MICROSOFT-CDO-OWNERAPPTID:6880445166
+END:VEVENT
+END:VCALENDAR

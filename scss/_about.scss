@@ -1,0 +1,107 @@
+#about{
+    &-a{
+        .container{
+            font-size: 2rem;
+            
+            .top{
+                background-color: aliceblue;
+                border-radius: 5px;
+            }
+            .bottom{
+                background-color: firebrick;
+                display: grid;
+                grid-template-columns: repeat(2,1fr) ;
+                border-radius: 5px;
+
+                div{
+                    
+                    h3{
+                        font-weight: 1200;
+                        font-size: 2.2rem;
+                        color: thistle;
+                    }
+                }
+            }
+        }
+    }
+
+    &-b{
+        .container{
+            background-color: $light-color;
+            border-radius: 10px;
+            box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+
+            &:first-child{
+                h2{
+                    font-size: 3rem;
+                    font-weight: bold;
+                }
+            }
+
+            .bottom{
+                div{
+                    height: 20px;
+                    background-color: #CEE5D0;
+                    border-radius: 10px;
+                    div{
+                        background-color: #ECB390;
+                        border-radius: 10px;
+                    }
+                }
+            }
+        }
+    }
+
+    &-c{
+
+        background-color: $medium-color;
+        .container{
+
+            display: grid;
+            grid-template-columns: repeat(4,1fr);
+            justify-items: center;
+            align-items: center;
+        }
+
+        img{
+            width: 70%;
+           
+        }
+    }
+
+    &-d{
+        p{
+            font-size: 2rem;
+        }
+
+        
+        .references{
+            
+            
+            
+            p{
+                border: 3px solid gray;
+                border-radius: 5px;
+                padding: 1rem;
+            }
+
+            ul{
+                display: flex;
+                list-style: none;
+                align-items: center;
+            }
+
+            img{
+                width: 50px;
+                height: 50px;
+                border-radius: 50%;
+                padding-right: .5rem;
+                margin-top: .5rem;
+            }
+
+
+            
+            
+        }
+    }
+}

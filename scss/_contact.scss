@@ -1,0 +1,98 @@
+#contact{
+    &-a{
+
+        margin: 2rem 0;
+        .text-center{
+            margin-bottom: 2rem;
+
+            p{
+                font-size: 1.5rem;
+            }
+        }
+        .form-style{
+            display: grid;
+            gap: 1rem;
+            grid-template-areas: 
+                    'name email'
+                    'subject phone'
+                    'text text'
+                    'button button';
+
+            
+
+            .name{
+                grid-area: name;
+            }
+            .subject{
+                grid-area: subject;
+            }
+            .email{
+                grid-area: email;
+            }
+            .phone{
+                grid-area: phone;
+            }
+            .text{
+                grid-area: text;
+                height: 200px;
+            }
+            .btn-dark{
+                grid-area: button;
+            }
+            .input{
+                padding: 1rem;
+            }
+        }
+    }
+
+    &-b{
+     
+        position: relative;
+        margin-bottom: 3rem;
+        background-color: $light-yellow;
+        .container{
+            
+            display: grid;
+            grid-template-columns: repeat(3,1fr);
+            color: $dark-brown;
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            padding: 5rem;
+            padding-top: 10rem;
+
+            div{
+                font-size: 2rem;
+            }
+            
+        }
+
+        .custom-shape-divider-top-1661517402 {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            overflow: hidden;
+            line-height: 0;
+        }
+        
+         svg {
+            position: relative;
+            display: block;
+            width: calc(100% + 2px);
+            height: 110px;
+        }
+        
+        .shape-fill {
+            fill: #FAEBD7;
+        }
+    } 
+    
+}
+
+#kuku{
+    width: 100vw;
+    height: 100px;
+    background-color: $body-color;
+}
+

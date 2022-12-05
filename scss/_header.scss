@@ -1,0 +1,107 @@
+
+
+#header{
+
+    
+
+
+    &__home{
+       
+
+        background: $bg-image no-repeat center center/cover;
+        height: 100vh;
+    
+
+
+        .header-main{
+           text-align: center;
+           padding-top: 25%;
+           
+           a{
+            font-size: 2rem;
+           }
+        }
+
+        h1{
+            font-size: 5rem;
+            line-height: 6rem;
+            color: #fff;
+            background-image: linear-gradient(to right, rgba(0,0,0),rgba(0,0,0,0.2)) ;
+            padding: 1rem;
+        }
+
+        .typewrite{
+            display: block;
+        }
+    }
+
+    &__inner{
+        background: $bg-imagef no-repeat 60% 60%/cover;
+        height: 30vh;
+    }
+
+    &__project{
+        background: $bg-image2 no-repeat 20% 60%/cover;
+        position: relative;
+        *{
+            z-index: 1;
+        }
+       
+        &::before{
+            content: '';
+            background-color: black;
+            
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            opacity: 0.3;
+        }
+    }
+         
+}
+
+.main-nav{
+    display: flex;
+    justify-content: space-between;
+    font-size: 1.5rem;
+    background-color: rgba(0,0,0,0.5);
+   
+    .main-nav__logo{
+        display: block;
+        padding: 1rem 2rem;
+        
+    }
+
+    .main-nav__items{
+        display: flex;
+        
+
+        li{
+            padding: 1rem 2rem;
+
+            .active{
+                border-bottom: orange solid .1rem;
+                
+            }
+            
+            a{
+                &:hover{
+                    border-bottom: #fff solid 2px;
+                    transition: .2s;
+                }
+            }
+
+            &:hover{
+                background-color: rgba(0,0,0,1) ;
+                transition: .5s;
+            }
+        }
+
+       
+    }
+
+    
+    
+}
